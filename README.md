@@ -2,5 +2,4 @@
 Excersice
 
 First change EVER!
-
-Another change here !
+I merged the second change!
